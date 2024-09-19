@@ -1,0 +1,5 @@
+type "Kuzyukova Ksenia"
+cd "Kuzyukova Ksenia"
+type money.txt
+sort money.txt > gold.txt
+doskey /history > serebroo.txt
